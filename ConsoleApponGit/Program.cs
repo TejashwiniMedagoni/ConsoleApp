@@ -12,5 +12,10 @@ namespace ConsoleApponGit
         {
             Console.WriteLine("Main");
         }
+
+        public void add()
+        {
+            Console.WriteLine("Add");
+        }
     }
 }
